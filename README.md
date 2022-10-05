@@ -4,7 +4,7 @@ This was an analysis of the USA crime data dataset. the aim of the analysis was 
 
 #Analysis
 
-The analysis was done by way of plotting graphs showing goegraghical represations of the (states vs the number of victims),(State vs number of perpetrators) as well as state by weapon used as a key. A comparison gragh was also done to see if there is a relationship beteen number of victims and perpetrators for each state.(data set used is for period 1980 to 2014-attached as part of this repository files)
+The analysis was done by way of plotting graphs showing goegraghical represations of the (states vs the number of victims),(State vs number of perpetrators) as well as state by weapon used as a key. A comparison gragh was also done to see if there is a relationship beteen number of victims and perpetrators for each state.(data set used is for period 1980 to 2014-File too big to upload, find on [google drive](https://docs.google.com/spreadsheets/d/1DpKQFKXXzHqhP-VeDyURc5X_bzAxLQiy/edit?usp=sharing&ouid=101802299377781967717&rtpof=true&sd=true))
 
 #Conclusion and Findings
 
