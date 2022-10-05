@@ -13,3 +13,7 @@ It was observed that Carlifonia and Texas have the most number of victims and pe
 It was also noted that the Handun is the most used weapon.
 
 The direct relationship between the number of victims and the number of perpetrators suggest there may not be an reason to suggest a serial killer exist.
+
+#Dashboard and Results
+
+The analysis was done by use of analysing the graghs and [Dashboard in Tableau](https://public.tableau.com/app/profile/clayton1773/viz/USCrimedataset/USCrimeData1980-2014)
